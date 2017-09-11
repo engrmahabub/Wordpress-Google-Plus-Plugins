@@ -1,2 +1,2 @@
-# Wordpress-Google-Plus-Plugins
-SM Google+ Plugins
+# Wordpress Google+ Plugins
+**SM Google+ Plugins** is a Wordpress plugin
